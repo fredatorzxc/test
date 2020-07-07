@@ -1,5 +1,5 @@
 $F1::
-number1 := 1000
+number1 := 1500
 number2 := 1500
 number3 := number1 + number2
 msgbox, %number3%
