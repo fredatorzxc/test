@@ -1,0 +1,6 @@
+$F1::
+number1 := 100
+number2 := 200
+number3 := number1 + number2
+msgbox, %number3%
+return
