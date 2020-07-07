@@ -1,6 +1,6 @@
 $F1::
 number1 := 10000
-number2 := 6000
+number2 := 10000
 number3 := number1 + number2
 msgbox, %number3%
 return
