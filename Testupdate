@@ -1,1 +1,6 @@
-Hsajbzhsbaauabab
+$F1::
+number1 := 500
+number2 := 400
+number3 := number1 + number2
+msgbox, %number3%
+return
